@@ -10,7 +10,7 @@
     "dev": "turbo dev"
   },
   "keywords": [],
-  "author": "tknickman",
-  "license": "ISC",
-  "packageManager": "pnpm@7.30.5"
+  "author": "n1kkl",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.3"
 }
